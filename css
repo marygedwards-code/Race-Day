@@ -1,0 +1,63 @@
+body {
+  font-family: 'Comfortaa', sans-serif;
+  background-color: red;
+  color: black;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+label {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+input {
+  margin-top: 15px;
+  padding: 12px;
+  font-size: 18px;
+  border: 2px solid darkred;
+  border-radius: 8px;
+  font-family: 'Comfortaa', sans-serif;
+}
+
+button {
+  margin-left: 10px;
+  padding: 12px 18px;
+  font-size: 18px;
+  border: 2px solid darkred;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  font-family: 'Comfortaa', sans-serif;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: darkred;
+}
+
+ul {
+  text-align: left;
+  display: inline-block;
+  margin-top: 30px;
+  font-size: 20px;
+  line-height: 1.8;
+}
+
+.time {
+  font-weight: bold;
+}
+
+#flyers {
+  color: black;
+  font-size: 38px;
+  font-weight: bold;
+  margin-top: 40px;
+}
